@@ -1,0 +1,27 @@
+body{
+    background: #8A2387;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F27121, #E94057, #ae87ac);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F27121, #E94057,  #ae87ac); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+     align-items: center; 
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 30px;
+
+}
+button{
+    height:100px ;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgb(86, 79, 79);
+    border: 2px solid darkgrey;
+    cursor: pointer;
+    
+}
+.fun{
+    background: #4CA1AF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #C4E0E5, #4CA1AF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #C4E0E5, #4CA1AF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+color: #5c1559;
+
+}
